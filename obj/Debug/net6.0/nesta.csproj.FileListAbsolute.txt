@@ -1,0 +1,8 @@
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.csproj.AssemblyReference.cache
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.AssemblyInfoInputs.cache
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.AssemblyInfo.cs
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.csproj.CoreCompileInputs.cache
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.RazorAssemblyInfo.cache
+C:\Users\eminra\source\repos\nesta\nesta\obj\Debug\net6.0\nesta.RazorAssemblyInfo.cs
